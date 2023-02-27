@@ -1,0 +1,31 @@
+body{
+	font-family: sans-serif;
+	background-color: #F7F7F7;
+}
+.black-button{
+	color: white;
+	background-color: black;
+	margin: 20px auto;
+	padding: 20px;
+	width: 50%;
+	text-align: center;
+}
+
+#menu{
+	list-style-type: none;
+	margin: 0;
+	padding: 20px 0;
+	overflow: hidden;
+	width: 80%;
+	background-color: #FDFEFE;
+}
+
+#menu li {
+	float: left;
+}
+	
+.border{
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	padding: 20px 100px;
+}
